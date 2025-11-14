@@ -44,11 +44,13 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ <img width="1920" height="1020" alt="BEEE exp 1" src="https://github.com/user-attachments/assets/7678dc05-4b29-4b6b-9f50-6ca05f5b1240" />
+
 
 
 b.  KCL:
- 
+ <img width="1918" height="1011" alt="BEEE exp 1 2" src="https://github.com/user-attachments/assets/cbd3ad10-f166-4ec8-91c1-ded5506cd515" />
+
 
 Calculation:
 
